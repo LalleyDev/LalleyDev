@@ -4,7 +4,7 @@
 - 🤔 Upcoming Projects:
   - Html/CSS/Typescript/PostgreSQL GUI Work - [Money Math Application](https://github.com/LalleyDev/moneyMath)
   - Svelte/PostgreSQL - [Comms Self Hosted Chat](https://github.com/LalleyDev/Comms)
-- 😊 I’m looking for a role in web development.
+- 😊 I’m looking for a role in Software Engineering.
 - 💬 Ask me about my home server.
 - 📫 How to reach me:
   - Email: samuellalley@gmail.com
