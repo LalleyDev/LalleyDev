@@ -1,4 +1,4 @@
-## Hi, I'm Samuel Lalley 👋
+## Hi, I'm Sam Lalley 👋
 
 - 🔭 I’m currently learning typescript servers - [Home Server Dashboard](https://github.com/LalleyDev/Dashboard)
 - 🤔 Upcoming Projects:
@@ -9,5 +9,8 @@
 - 📫 How to reach me:
   - Email: samuellalley@gmail.com
   - LinkedIn: https://www.linkedin.com/in/samuel-lalley-96ab65135/
-  - Boot.dev: https://www.boot.dev/u/lalleys
+- Education/Resume:
+  - Resume: [Link]()
+  - Boot.dev: [Profile](https://www.boot.dev/u/lalleys)
+  - 
 - ⚡ Fun fact: I played piano for 8 years.
