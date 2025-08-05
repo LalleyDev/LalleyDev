@@ -1,9 +1,9 @@
 ## Hi, I'm Samuel Lalley 👋
 
-- 🔭 I’m currently learning typescript servers - Home Server Dashboard: ([repository](https://github.com/LalleyDev/Dashboard))
+- 🔭 I’m currently learning typescript servers - [Home Server Dashboard](https://github.com/LalleyDev/Dashboard)
 - Upcoming Projects:
-  - Html/CSS/Typescript/PostgreSQL GUI Work - Money Math Application: ([repository](https://github.com/LalleyDev/moneyMath))
-  - Svelte/PostgreSQL - Comms Self Hosted Chat: ([repository](https://github.com/LalleyDev/Comms))
+  - Html/CSS/Typescript/PostgreSQL GUI Work - [Money Math Application](https://github.com/LalleyDev/moneyMath)
+  - Svelte/PostgreSQL - [Comms Self Hosted Chat](https://github.com/LalleyDev/Comms)
 - 🤔 I’m looking for a role in web development.
 - 💬 Ask me about my home server.
 - 📫 How to reach me:
