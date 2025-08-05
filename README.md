@@ -10,7 +10,7 @@
   - Email: samuellalley@gmail.com
   - LinkedIn: https://www.linkedin.com/in/samuel-lalley-96ab65135/
 - Education/Resume:
-  - Resume: [Link]()
+  - Resume: [Link](https://github.com/LalleyDev/LalleyDev/blob/main/Resume.pdf)
   - Boot.dev: [Profile](https://www.boot.dev/u/lalleys)
   - 
 - ⚡ Fun fact: I played piano for 8 years.
