@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Samuel Lalley 👋
 
-<!--
-**LalleyDev/LalleyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning typescript servers - Home Server Dashboard: ([repository](https://github.com/LalleyDev/Dashboard))
+- Upcoming Projects:
+  - Html/CSS/Typescript/PostgreSQL GUI Work - Money Math Application: ([repository](https://github.com/LalleyDev/moneyMath))
+  - Svelte/PostgreSQL - Comms Self Hosted Chat: ([repository](https://github.com/LalleyDev/Comms))
+- 🤔 I’m looking for a role in web development.
+- 💬 Ask me about my home server.
+- 📫 How to reach me:
+  - Email: samuellalley@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/samuel-lalley-96ab65135/
+  - Boot.dev: https://www.boot.dev/u/lalleys
+- ⚡ Fun fact: I played piano for 8 years.
