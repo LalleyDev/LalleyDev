@@ -13,4 +13,4 @@
   - Resume: [Link](https://github.com/LalleyDev/LalleyDev/blob/main/Resume.pdf)
   - Boot.dev: [Profile](https://www.boot.dev/u/lalleys)
   - Frontend Masters: Upcoming
-- ⚡ Fun fact: I played piano for 8 years.
+- Fun fact: I played piano for 8 years.
