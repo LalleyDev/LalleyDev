@@ -2,7 +2,7 @@
 
 - I’m currently learning typescript servers - [Home Server Dashboard](https://github.com/LalleyDev/Dashboard)
 - Upcoming Projects:
-  - Html/CSS/Typescript/PostgreSQL GUI Work - [Money Math Application](https://github.com/LalleyDev/moneyMath)
+  - Html/CSS/Typescript/SQLite GUI Work - [Money Math Application](https://github.com/LalleyDev/moneyMath)
   - Svelte/PostgreSQL - [Comms Self Hosted Chat](https://github.com/LalleyDev/Comms)
 - I’m looking for a role in Software Engineering.
 - Ask me about my home server.
