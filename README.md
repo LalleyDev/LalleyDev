@@ -1,4 +1,4 @@
-## Hi, I'm Sam Lalley 👋
+## Hi, I'm Sam Lalley
 
 - I’m currently learning typescript servers - [Home Server Dashboard](https://github.com/LalleyDev/Dashboard)
 - Upcoming Projects:
@@ -13,4 +13,3 @@
   - Resume: [Link](https://github.com/LalleyDev/LalleyDev/blob/main/Resume.pdf)
   - Boot.dev: [Profile](https://www.boot.dev/u/lalleys)
   - Frontend Masters: Upcoming
-- Fun fact: I played piano for 8 years.
